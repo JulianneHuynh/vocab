@@ -17,3 +17,5 @@ function VocabularyPage() {
     </Container>
   );
 }
+
+export default VocabularyPage;
