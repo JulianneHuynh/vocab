@@ -1,6 +1,6 @@
 import React from "react";
 
-function VocabularyCard(){
+function Card(){
 
 return (
   <Card>
@@ -15,7 +15,7 @@ return (
       </div>
     </div>
   </Card>
-);
+ );
 }
 
-export default VocabularyCard;
+export default Card;

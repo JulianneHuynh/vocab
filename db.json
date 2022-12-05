@@ -1,0 +1,76 @@
+{ 
+  "terms": [
+    {
+      "id":1,
+      "term":"Bromance",
+      "definition":"Bromance is the combination of two words, `brother` and `romance`. It describes the unique male bonding found between `brothers from another mother`. This is between heterosexual males and no matter what is never seen as a gay relationship, though it may be joked about",
+      "example":" Javiar and Kevin have such a bromance, they literally know what the others thinking.",
+      "moreInfo":"https://www.urbandictionary.com/define.php?term=Bromance"
+    },
+    {
+      "id":2,
+      "term": "Meat Sweats",
+      "definition":"To consume an obsene amount of meat resulting in perfuse sweating.",
+      "example":"They needed to mop thier brow as they had a bad case of the meat sweats.",
+      "moreInfo": "https://www.urbandictionary.com/define.php?term=meat%20sweats"
+    },
+    {
+      "id":3, 
+      "term": "Cyberslacking",
+      "definition":"Using a companies computer and Internet for personal activities when one should be doing work.",
+      "example":"John's job is so boring and monotonous that he started Cyberslacking by browsing Youtube for hours everyday.",
+      "moreInfo":"https://www.urbandictionary.com/define.php?term=Cyberslacking"
+    },
+    {
+      "id":4,
+      "term": "Askhole",
+      "definition":"Someone who asks for your advice but then, does the exact opposite.",
+      "example":"Most of my friends are askholes.",
+      "moreInfo":"https://www.urbandictionary.com/define.php?term=Askhole"
+    }, 
+    {
+      "id":5,
+      "term": "Edward Cullen",
+      "definition":"A psycho who goes into girls bedrooms to watch them sleep. May or may not sparkle.",
+      "example":"This guy is a total Edward Cullen! Crept into my room again last night!",
+      "moreInfo":"https://www.urbandictionary.com/define.php?term=Edward%20Cullen"
+    }, 
+    {
+      "id":6,
+      "term": "Movie Theater Physics",
+      "definition":"The science of figuring out the distance between the movie theater screen and speakers to ensure an optimal movie-watching experience.",
+      "example":"Mason insisted on going to the theater early and finding the perfect seat; he wanted to show his date how movie theater physics works",
+      "moreInfo":"https://www.urbandictionary.com/define.php?term=movie%20theater%20physics" 
+    }, 
+    {
+      "id":7,
+      "term": "Noxter", 
+      "definition":"Obnoxious eater - someone who eats really loud, aggressive and offensive and is unpleasant to be around.",
+      "example":"I was at the movie theatre and was sitting beside a noxter, I almost got up and left it was so annoying.",
+      "moreInfo":"https://www.urbandictionary.com/define.php?term=Noxter"
+    }, 
+    {
+      "id":8, 
+      "term": "Study",
+      "definition":"Texting, eating and watching TV with an open textbook nearby",
+      "example":"Dude, I have to study",
+      "moreInfo": "https://www.urbandictionary.com/define.php?term=study"
+    }, 
+    {
+      "id":9,
+      "term":"Calories", 
+      "definition":"Little monsters that sneak into your room at night and sew all your clothes tighter.",
+      "example":"Avoid calories at all costs.",
+      "moreInfo":"https://www.urbandictionary.com/define.php?term=calories"
+    },
+    {
+      "id":10, 
+      "term": 
+      "definition":
+      "example":
+      "moreInfo": 
+    }
+
+  
+  ]
+}

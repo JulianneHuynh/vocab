@@ -1,7 +1,7 @@
 import React from "react";
-import VocabularyCard from "./VocabularyCard"
+import VocabularyCard from "./Card"
 
-function VocabularyList(){
+function List(){
 
 
 
@@ -13,4 +13,4 @@ return (
 );
 }
 
-export default VocabularyList;
+export default List;
